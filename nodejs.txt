@@ -1,0 +1,14 @@
+node --version
+
+npm --version
+
+Update npm package
+npm install npm -g
+
+installing module using npm
+
+npm install <module name>
+
+for example
+
+npm install express
